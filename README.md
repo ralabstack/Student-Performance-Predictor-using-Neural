@@ -1,9 +1,7 @@
-# 🎓 Student Performance Predictor — Neural Network from Scratch
+# Student Performance Predictor — Neural Network from Scratch
 The project is a complete machine learning project that predicts whether a student will pass or fail based on study habits, attendance, previous grades, and lifestyle factors. The neural network is implemented from scratch using only NumPy, covering forward propagation, backpropagation, and gradient descent. Built as part of a Handshake AI Skills Showcase.
 
 **A Handshake AI Skills Showcase Project by Vamshi Kiran Rathod Bhukya**
-
----
 
 ## Overview
 This project predicts whether a student will **pass or fail** using a feedforward neural network built entirely from scratch with NumPy and no deep learning frameworks used.
